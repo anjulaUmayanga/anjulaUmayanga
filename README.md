@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anjula Umayanga</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 <img align="right" alt="coding" width="400" height="300" src="https://prompti.ai/wp-content/uploads/2023/07/pcboi2.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjulaumayanga&label=Profile%20views&color=0e75b6&style=flat" alt="anjulaumayanga" /> </p>
