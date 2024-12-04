@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Android Social Media app**
 
-- 🌱 I’m currently learning **React , Flutter**
+- 🌱 I’m currently learning **MERN Stack , Flutter**
 
-- 💬 Ask me about **Android , Java**
+- 💬 Ask me about **Android , Java , python , JavaScript **
 
 - 📫 How to reach me **anjulaumayanga047@gmail.com**
 
