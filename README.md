@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN Stack , Flutter**
 
-- 💬 Ask me about **Android , Java , python , JavaScript **
+- 💬 Ask me about **Android , Java , python , JavaScript**
 
 - 📫 How to reach me **anjulaumayanga047@gmail.com**
 
