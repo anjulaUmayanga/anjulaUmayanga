@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjulaumayanga" alt="anjulaumayanga" /></a> </p>
 
-- 🔭 I’m currently working on **Android Social Media app**
+- 🔭 I’m currently working on **Fullstack Bookin App**
 
 - 🌱 I’m currently learning **MERN Stack , Flutter**
 
