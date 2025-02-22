@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjulaumayanga" alt="anjulaumayanga" /></a> </p>
 
-- 🔭 I’m currently working on **Fullstack Booking App**
+- 🔭 I’m currently working on **Fullstack ERP System**
 
-- 🌱 I’m currently learning **MERN Stack , Flutter**
+- 🌱 I’m currently learning **MERN Stack , ReactNative**
 
-- 💬 Ask me about **Android , Java , python , JavaScript**
+- 💬 Ask me about **Java, python, JavaScript, Android**
 
 - 📫 How to reach me **anjulaumayanga047@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I enjoy bringing humor into coding and problem-solving!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
